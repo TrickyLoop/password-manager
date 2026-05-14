@@ -1,4 +1,4 @@
-# password-manager
+# Python Password Manager
 Simple password manager made with Python and TKinter
 
 Note: The JSON file in output directory is a sample.
